@@ -2,6 +2,6 @@
 
 
 def using_concat(element)
-  array.concat(element)
+  array.concat(element,element)
   
 end
